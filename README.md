@@ -1,5 +1,5 @@
 # manglish-kws
-##Python code and dataset for Malaysian-accent Keyword Spotting
+## Python code and dataset for Malaysian-accent Keyword Spotting
 
 
 Publication from this research:
