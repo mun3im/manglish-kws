@@ -1,7 +1,6 @@
 # manglish-kws
-Python code and dataset for Malaysian-accent Keyword Spotting
+##Python code and dataset for Malaysian-accent Keyword Spotting
 
-Word started by Jeoung.
 
 Publication from this research:
 Jong Ee Jeoung, Kok Yeow You and Muhammad Mun'im Zabidi, *Keyword Spotting on Embedded System with Deep Learning*
